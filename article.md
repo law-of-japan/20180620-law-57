@@ -2,6 +2,6 @@
 
 [国民の祝日に関する法律（昭和二十三年法律第百七十八号）](https://github.com/law-of-japan/19480720-law-178)の一部を次のように改正する。
 
-[第二条](https://github.com/law-of-japan/19480720-law-178/blob/master/article.md#%E7%AC%AC%E4%BA%8C%E6%9D%A1)体育の日の項を次のように改める。
+[第二条](https://github.com/law-of-japan/19480720-law-178/blob/71caea3ac73cf5da890d0e8f36d0b54b7c044b29/article.md#%E7%AC%AC%E4%BA%8C%E6%9D%A1)体育の日の項を次のように改める。
 
 - スポーツの日　十月の第二月曜日　スポーツを楽しみ、他者を尊重する精神を培うとともに、健康で活力ある社会の実現を願う。
